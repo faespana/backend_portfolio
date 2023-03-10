@@ -1,0 +1,16 @@
+.App {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 90vh;
+    background-color: rgba(49, 16, 3, 0.591);
+} 
+
+.navbar__container {
+  color: white;
+
+}
+
+/* .navbar__info-container {
+
+} */
